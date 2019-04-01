@@ -21,9 +21,15 @@ public class Ex_04Test {
     @Autowired
     private UserService userService;
 
+
     @Test
     public void test() {
         userService.buyCar();
+    }
+
+    @Test
+    public void test1() {
+        userService.addUser();
     }
 
 

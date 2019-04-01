@@ -1,5 +1,6 @@
 package com.example.springboot_ex_04.service;
 
+import com.example.springboot_ex_04.aspect.MyInterceptor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
@@ -23,4 +24,8 @@ public class UserService {
         log.debug("buyCar():买了一辆豪华小轿车，老开心了！！！！！");
     }
 
+    @MyInterceptor(MyInterceptor.AuthorityType.ADMIN)
+    public void addUser() {
+        log.debug("我加了一个人你知道么");
+    }
 }
