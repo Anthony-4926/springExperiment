@@ -1,0 +1,120 @@
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "userName": "spring",
+  "password": "445",
+  "detail": "708"
+}
+
+<> 2019-04-08T113418.200.json
+
+###
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "userName": "spring",
+  "password": "445",
+  "detail": "708"
+}
+
+<> 2019-04-08T113244.200.json
+
+###
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "userName": "spring",
+  "password": "445",
+  "detail": "708"
+}
+
+<> 2019-04-08T113007.200.json
+
+###
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "userName": "spring",
+  "password": "445",
+  "detail": "708"
+}
+
+<> 2019-04-08T112813.200.json
+
+###
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "userName": "spring",
+  "password": "445",
+  "detail": "708"
+}
+
+<> 2019-04-08T112719.200.json
+
+###
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "userName": "spring",
+  "password": "445",
+  "detail": "708"
+}
+
+<> 2019-04-08T112627.405.json
+
+###
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+{:
+ "user": "spring",
+"password": "455",
+"detail": "708"
+}:
+
+<> 2019-04-08T112526.400.html
+
+###
+
+GET http://localhost:8080/api/user/2
+
+<> 2019-04-08T110646.200.json
+
+###
+
+GET http://localhost:8080/api/users
+
+<> 2019-04-08T110545.200.json
+
+###
+
+GET http://localhost:8080/api/users
+
+<> 2019-04-08T110519.404.json
+
+###
+
+GET http://localhost:8080/api/users
+
+<> 2019-04-08T110437.404.json
+
+###
+
+GET http://localhost:8080/api/users
+
+<> 2019-04-08T110404.404.json
+
+###
+
