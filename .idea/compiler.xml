@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springboot_ex_04" />
         <module name="springboot_ex_05" />
+        <module name="springboot_ex_06" />
         <module name="springExperiment" />
       </profile>
     </annotationProcessing>
@@ -20,6 +21,7 @@
       <module name="ex_04" options="-parameters" />
       <module name="springboot_ex_04" options="-parameters" />
       <module name="springboot_ex_05" options="-parameters" />
+      <module name="springboot_ex_06" options="-parameters" />
     </option>
   </component>
 </project>

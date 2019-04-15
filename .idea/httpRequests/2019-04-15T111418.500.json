@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-04-15T03:14:18.203+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "Missing URI template variable 'userName' for method parameter of type String",
+  "path": "/api/users/a"
+}

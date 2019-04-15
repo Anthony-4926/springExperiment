@@ -1,3 +1,203 @@
+GET http://localhost:8080/api/users/a
+
+<> 2019-04-15T111418.500.json
+
+###
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "userName": "as",
+  "password": "12",
+  "age": "20",
+  "email": "123.com"
+  }
+
+<> 2019-04-15T111259.400.json
+
+###
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "userName": "asjj",
+  "password": "1234",
+  "age": "20",
+  "email": "123@123.com"
+  }
+
+<> 2019-04-15T111225.200.json
+
+###
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "userName": "asjj",
+  "password": "1234",
+  "age": "asdf",
+  "email": "123@123.com"
+  }
+
+<> 2019-04-15T111103.400.json
+
+###
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "userName": "asjj",
+  "password": "1234",
+  "age": "asdf",
+  "email": "123@123.com"
+  }
+
+<> 2019-04-15T110805.400.json
+
+###
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "userName": "asjj",
+  "password": "1234",
+  "age": "asdf",
+  "email": "123@123.com"
+  }
+
+<> 2019-04-15T110440.400.json
+
+###
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "userName": "asjj",
+  "password": "1234",
+  "age": "13",
+  "email": "123@123.com"
+  }
+
+<> 2019-04-15T110424.400.json
+
+###
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "userName": "asjj",
+  "password": "1234",
+  "age": "13",
+  "email": "123.@123.com"
+  }
+
+<> 2019-04-15T110354.400.json
+
+###
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "userName": "asjj",
+  "password": "1234",
+  "age": "13",
+  "email": "abc.12"
+  }
+
+<> 2019-04-15T110312.400.json
+
+###
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "userName": "asjj",
+  "password": "1234",
+  "age": "赵鑫",
+  "email": "abc.12"
+  }
+
+<> 2019-04-15T110119.400.json
+
+###
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "userName": "asjj",
+  "password": "1234",
+  "age": "赵鑫",
+  "email": "abc.12"
+  }
+
+<> 2019-04-15T105744.400.json
+
+###
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "userName": "asjj",
+  "password": "1234",
+  "age": "赵鑫",
+  "email": "abc.12"
+  }
+
+<> 2019-04-15T105602.400.json
+
+###
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "userName": "asjj",
+  "password": "1234",
+  "age": "20",
+  "email": "abc.12"
+  }
+
+<> 2019-04-15T104850.400.json
+
+###
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "userName": "as",
+  "password": "1234",
+  "age": "16",
+  "email": "abc.12"
+  }
+
+<> 2019-04-15T104625.400.json
+
+###
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "userName": "as",
+  "password": "1234",
+  "age": "16",
+  "email": "abc.12"
+  }
+
+###
+
 POST http://localhost:8080/api/users
 Content-Type: application/json
 
