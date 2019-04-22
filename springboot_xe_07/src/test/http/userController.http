@@ -1,0 +1,22 @@
+POST http://localhost:8080/api/register
+Content-Type: application/json
+
+{
+  "userName": "BO",
+  "password": "123456"
+}
+###
+POST http://localhost:8080/api/login
+Content-Type: application/json
+
+{
+  "userName": "BO",
+  "password": "123456"
+}
+
+###
+GET http://localhost:8080/api/index
+Authorization: 7a4a9eb92dfd854876bf72c3973f9d294357090928036cca0e8ad35ecb74dc19
+
+
+###
